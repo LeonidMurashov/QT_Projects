@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/User/Downloads/line_chart.ico</file>
+        <file>C:/Users/User/Downloads/line_chart.png</file>
+        <file>C:/Users/User/Downloads/chart_curve.ico</file>
+    </qresource>
+</RCC>

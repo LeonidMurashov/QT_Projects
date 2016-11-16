@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>gantela.gif</file>
+        <file>1614.png</file>
+        <file>../3floppy_unmount_5956.png</file>
+        <file>PE_Calc.ico</file>
+    </qresource>
+    <qresource prefix="/new2">
+        <file>gantela.gif</file>
+    </qresource>
+</RCC>
