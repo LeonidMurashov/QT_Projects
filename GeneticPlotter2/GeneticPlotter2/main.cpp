@@ -33,14 +33,14 @@ int main(int argc, char *argv[])
 
     //DEBUG delme
 
-    QFile *db = new QFile("D:\\delme\\logs\\logfileDEBUG.txt");
+    /*QFile *db = new QFile("D:\\delme\\logs\\logfileDEBUG.txt");
     if (!db->open(QFile::WriteOnly)){}//QMessageBox::information(this,"Ошибка","Файл не подключен! \n Требуется изменить путь к файлу.");}
     else
     {
         QTextStream stream(db);
         stream<<fOutputAdress;
         db->close();
-    }
+    }*/
 
 
 
